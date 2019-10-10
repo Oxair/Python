@@ -1,8 +1,5 @@
 # Python Help and References
 
-# Python and More Books
-
-
 https://github.com/Oxair/Python/tree/master/Reference-Books
 
 * A SmarterWay_to_Learn_Python
